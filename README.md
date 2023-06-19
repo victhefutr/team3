@@ -37,6 +37,6 @@ License
 The NHS Portal MVP is released under the MIT License. By contributing to this repository, you agree to make your contributions available under the same license.
 
 Contact
-For general inquiries or further information about the NHS Portal MVP, you can reach out to our project team at team@example.com.
+For general inquiries or further information about the NHS Portal MVP, you can reach out to our project team at victornweze97@gmail.com.
 
 We appreciate your interest and look forward to your contributions towards improving the healthcare experience through the NHS Portal MVP. Together, we can make a significant impact on the lives of patients and healthcare professionals within the NHS.
